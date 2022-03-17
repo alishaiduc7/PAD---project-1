@@ -1,5 +1,0 @@
-Username: alis Password: 1234
-Username: Nathan Password: nathan
-Username: Paul Password: alexa
-Username: Alis Password: haiduc
-Username: Andreea Password: mihai
